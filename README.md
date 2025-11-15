@@ -2,13 +2,6 @@
 
 A simple web-based tool to create and customize the "glassmorphism" effect for your UI elements. Adjust settings like blur, transparency, and color to get the perfect look and instantly copy the generated CSS code.
 
-**[Add a link to your live demo here (e.g., if you host it on GitHub Pages)]**
-
-![Screenshot of the Glassmorphism Generator in action](link-to-your-screenshot.png)
-*(You should replace the line above with a screenshot of your app)*
-
----
-
 ## Features
 
 * **Live Preview:** See the glassmorphism effect update in real-time as you adjust the settings.
